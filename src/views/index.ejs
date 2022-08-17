@@ -9,7 +9,7 @@
         <div class="cuatroCuadros">
             <!-- primer formulario -->
             <h2 class="tituloForm">Ingresos</h2>
-            <form action="/" method="POST" class="primerForm">
+            <form action="/form1" method="POST" class="primerForm" id="form1">
                 <label for="monto">Monto trabajo:</label>
                 <input type="number" name="monto" placeholder="$ 0.000"><br>
                 <br>
@@ -18,16 +18,16 @@
                 <input name="medio" type="radio" value="transferencia"/>Transferencia <br>
                 <br>
                 <label for="fecha">Fecha</label>
-                <input type="date">
+                <input type="date" name="fecha">
                 <br>
                 <br>
-                <input type="submit" value="Registrar" class="botonRegistrar2">
+                <input type="submit" value="Registrar" class="botonRegistrar2" form="form1">
             </form>
         </div>
         <div class="cuatroCuadros">
             <!-- primer formulario -->
             <h2 class="tituloForm">Egresos</h2>
-            <form action="/" method="POST" class="primerForm">
+            <form action="/form2" method="POST" class="primerForm" id="form2">
                 <input name="conceptGast" type="radio" value="personal" checked="checked"/>Personal<br/>
                 <input name="conceptGast" type="radio" value="peluqueria"/>Peluquería<br />
                 <br>
@@ -39,10 +39,10 @@
                 <input name="medioEg" type="radio" value="transferencia"/>Transferencia <br>
                 <br>
                 <label for="fechaEg">Fecha</label>
-                <input type="date">
+                <input type="date" name="fechaEg">
                 <br>
                 <br>
-                <input type="submit" value="Registrar" class="botonRegistrar2">
+                <input type="submit" value="Registrar" class="botonRegistrar2" form="form2">
             </form>
         </div>
     </div>
