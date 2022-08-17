@@ -1,1 +1,1657 @@
-[{}]
+[
+ {
+  "monto": 3450,
+  "medio": "efectivo",
+  "fecha": "2021-05-11"
+ },
+ {
+  "monto": 7400,
+  "medio": "efectivo",
+  "fecha": "2021-05-12"
+ },
+ {
+  "monto": 1650,
+  "medio": "tarjeta",
+  "fecha": "2021-05-12"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-05-13"
+ },
+ {
+  "monto": 6000,
+  "medio": "tarjeta",
+  "fecha": "2021-05-13"
+ },
+ {
+  "monto": 7350,
+  "medio": "efectivo",
+  "fecha": "2021-05-14"
+ },
+ {
+  "monto": 2500,
+  "medio": "tarjeta",
+  "fecha": "2021-05-14"
+ },
+ {
+  "monto": 4200,
+  "medio": "efectivo",
+  "fecha": "2021-05-15"
+ },
+ {
+  "monto": 5000,
+  "medio": "tarjeta",
+  "fecha": "2021-05-15"
+ },
+ {
+  "monto": 2800,
+  "medio": "efectivo",
+  "fecha": "2021-05-18"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-05-18"
+ },
+ {
+  "monto": 1800,
+  "medio": "efectivo",
+  "fecha": "2021-05-18"
+ },
+ {
+  "monto": 8600,
+  "medio": "efectivo",
+  "fecha": "2021-05-18"
+ },
+ {
+  "monto": 500,
+  "medio": "efectivo",
+  "fecha": "2021-05-18"
+ },
+ {
+  "monto": 1000,
+  "medio": "efectivo",
+  "fecha": "2021-05-18"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-05-18"
+ },
+ {
+  "monto": 1000,
+  "medio": "tarjeta",
+  "fecha": "2021-05-18"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-05-22"
+ },
+ {
+  "monto": 1800,
+  "medio": "efectivo",
+  "fecha": "2021-05-22"
+ },
+ {
+  "monto": 8600,
+  "medio": "efectivo",
+  "fecha": "2021-05-22"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-05-22"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-05-22"
+ },
+ {
+  "monto": 1000,
+  "medio": "tarjeta",
+  "fecha": "2021-05-22"
+ },
+ {
+  "monto": 5000,
+  "medio": "efectivo",
+  "fecha": "2021-05-24"
+ },
+ {
+  "monto": 2900,
+  "medio": "efectivo",
+  "fecha": "2021-05-24"
+ },
+ {
+  "monto": 3800,
+  "medio": "tarjeta",
+  "fecha": "2021-05-24"
+ },
+ {
+  "monto": 850,
+  "medio": "tarjeta",
+  "fecha": "2021-05-24"
+ },
+ {
+  "monto": 1580,
+  "medio": "efectivo",
+  "fecha": "2021-06-01"
+ },
+ {
+  "monto": 1300,
+  "medio": "tarjeta",
+  "fecha": "2021-06-01"
+ },
+ {
+  "monto": 3600,
+  "medio": "efectivo",
+  "fecha": "2021-06-02"
+ },
+ {
+  "monto": 8950,
+  "medio": "efectivo",
+  "fecha": "2021-06-03"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-06-03"
+ },
+ {
+  "monto": 7650,
+  "medio": "efectivo",
+  "fecha": "2021-06-04"
+ },
+ {
+  "monto": 2500,
+  "medio": "tarjeta",
+  "fecha": "2021-06-04"
+ },
+ {
+  "monto": 5000,
+  "medio": "efectivo",
+  "fecha": "2021-06-12"
+ },
+ {
+  "monto": 4900,
+  "medio": "efectivo",
+  "fecha": "2021-06-12"
+ },
+ {
+  "monto": 7000,
+  "medio": "tarjeta",
+  "fecha": "2021-06-12"
+ },
+ {
+  "monto": 7800,
+  "medio": "efectivo",
+  "fecha": "2021-06-12"
+ },
+ {
+  "monto": 2900,
+  "medio": "tarjeta",
+  "fecha": "2021-06-12"
+ },
+ {
+  "monto": 1500,
+  "medio": "efectivo",
+  "fecha": "2021-06-12"
+ },
+ {
+  "monto": 1800,
+  "medio": "efectivo",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 2080,
+  "medio": "efectivo",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 1025,
+  "medio": "efectivo",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 1500,
+  "medio": "efectivo",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 1600,
+  "medio": "efectivo",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 2800,
+  "medio": "efectivo",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 4000,
+  "medio": "tarjeta",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 4600,
+  "medio": "tarjeta",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 3000,
+  "medio": "tarjeta",
+  "fecha": "2021-06-19"
+ },
+ {
+  "monto": 6500,
+  "medio": "tarjeta",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 8000,
+  "medio": "efectivo",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 3000,
+  "medio": "efectivo",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 1130,
+  "medio": "efectivo",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 7950,
+  "medio": "efectivo",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 1000,
+  "medio": "efectivo",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 6300,
+  "medio": "efectivo",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 4650,
+  "medio": "efectivo",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 4400,
+  "medio": "efectivo",
+  "fecha": "2021-06-26"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 400,
+  "medio": "efectivo",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 1820,
+  "medio": "efectivo",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 400,
+  "medio": "efectivo",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 2300,
+  "medio": "efectivo",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 4850,
+  "medio": "efectivo",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 5350,
+  "medio": "efectivo",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 3900,
+  "medio": "tarjeta",
+  "fecha": "2021-06-29"
+ },
+ {
+  "monto": 4100,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 1900,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 2200,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 3000,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 1290,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 1350,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 2200,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 4950,
+  "medio": "efectivo",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 2200,
+  "medio": "tarjeta",
+  "fecha": "2021-07-17"
+ },
+ {
+  "monto": 6350,
+  "medio": "efectivo",
+  "fecha": "2021-07-24"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-07-24"
+ },
+ {
+  "monto": 6580,
+  "medio": "efectivo",
+  "fecha": "2021-07-24"
+ },
+ {
+  "monto": 8750,
+  "medio": "efectivo",
+  "fecha": "2021-07-24"
+ },
+ {
+  "monto": 1600,
+  "medio": "efectivo",
+  "fecha": "2021-07-24"
+ },
+ {
+  "monto": 3800,
+  "medio": "tarjeta",
+  "fecha": "2021-07-24"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-07-24"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 6800,
+  "medio": "tarjeta",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 2500,
+  "medio": "tarjeta",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 4850,
+  "medio": "tarjeta",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 3800,
+  "medio": "tarjeta",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 4350,
+  "medio": "tarjeta",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 1800,
+  "medio": "efectivo",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 1450,
+  "medio": "efectivo",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 2400,
+  "medio": "efectivo",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 1800,
+  "medio": "efectivo",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 2800,
+  "medio": "efectivo",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 3000,
+  "medio": "efectivo",
+  "fecha": "2021-07-31"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 1500,
+  "medio": "efectivo",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 780,
+  "medio": "efectivo",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 1300,
+  "medio": "efectivo",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 1500,
+  "medio": "efectivo",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 1200,
+  "medio": "tarjeta",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 6300,
+  "medio": "tarjeta",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 2500,
+  "medio": "tarjeta",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-08-06"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 2800,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 400,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 3200,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 4200,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 2000,
+  "medio": "efectivo",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 1080,
+  "medio": "tarjeta",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 450,
+  "medio": "tarjeta",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 3650,
+  "medio": "tarjeta",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 1800,
+  "medio": "tarjeta",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 3000,
+  "medio": "tarjeta",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 1300,
+  "medio": "tarjeta",
+  "fecha": "2021-08-14"
+ },
+ {
+  "monto": 5200,
+  "medio": "efectivo",
+  "fecha": "2021-08-21"
+ },
+ {
+  "monto": 2200,
+  "medio": "tarjeta",
+  "fecha": "2021-08-21"
+ },
+ {
+  "monto": 6100,
+  "medio": "tarjeta",
+  "fecha": "2021-08-21"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 400,
+  "medio": "efectivo",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 4700,
+  "medio": "efectivo",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 2000,
+  "medio": "efectivo",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 500,
+  "medio": "efectivo",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 4300,
+  "medio": "tarjeta",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 1200,
+  "medio": "tarjeta",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 3550,
+  "medio": "tarjeta",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 1500,
+  "medio": "tarjeta",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-08-28"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-08-31"
+ },
+ {
+  "monto": 6500,
+  "medio": "tarjeta",
+  "fecha": "2021-08-31"
+ },
+ {
+  "monto": 2800,
+  "medio": "efectivo",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 400,
+  "medio": "efectivo",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 2000,
+  "medio": "efectivo",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 1350,
+  "medio": "efectivo",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 2850,
+  "medio": "tarjeta",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 5170,
+  "medio": "tarjeta",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 4900,
+  "medio": "tarjeta",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 4850,
+  "medio": "tarjeta",
+  "fecha": "2021-09-04"
+ },
+ {
+  "monto": 2400,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 500,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 3800,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 2400,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 850,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 5450,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 5500,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 4900,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 5750,
+  "medio": "tarjeta",
+  "fecha": "2021-09-11"
+ },
+ {
+  "monto": 1300,
+  "medio": "efectivo",
+  "fecha": "2021-09-18"
+ },
+ {
+  "monto": 3800,
+  "medio": "efectivo",
+  "fecha": "2021-09-18"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-09-18"
+ },
+ {
+  "monto": 450,
+  "medio": "tarjeta",
+  "fecha": "2021-09-18"
+ },
+ {
+  "monto": 4020,
+  "medio": "efectivo",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 1500,
+  "medio": "efectivo",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 5500,
+  "medio": "tarjeta",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 3650,
+  "medio": "tarjeta",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 2164,
+  "medio": "tarjeta",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 4500,
+  "medio": "tarjeta",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 4550,
+  "medio": "tarjeta",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 5600,
+  "medio": "tarjeta",
+  "fecha": "2021-09-29"
+ },
+ {
+  "monto": 2900,
+  "medio": "tarjeta",
+  "fecha": "2021-10-06"
+ },
+ {
+  "monto": 4200,
+  "medio": "tarjeta",
+  "fecha": "2021-10-06"
+ },
+ {
+  "monto": 4900,
+  "medio": "tarjeta",
+  "fecha": "2021-10-06"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-10-06"
+ },
+ {
+  "monto": 2800,
+  "medio": "efectivo",
+  "fecha": "2021-10-06"
+ },
+ {
+  "monto": 6700,
+  "medio": "efectivo",
+  "fecha": "2021-10-06"
+ },
+ {
+  "monto": 5800,
+  "medio": "efectivo",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 850,
+  "medio": "efectivo",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 6500,
+  "medio": "efectivo",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 4900,
+  "medio": "tarjeta",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 5350,
+  "medio": "tarjeta",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 4500,
+  "medio": "tarjeta",
+  "fecha": "2021-10-17"
+ },
+ {
+  "monto": 4800,
+  "medio": "efectivo",
+  "fecha": "2021-10-30"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-10-30"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-10-30"
+ },
+ {
+  "monto": 1300,
+  "medio": "efectivo",
+  "fecha": "2021-10-30"
+ },
+ {
+  "monto": 5500,
+  "medio": "efectivo",
+  "fecha": "2021-10-30"
+ },
+ {
+  "monto": 5050,
+  "medio": "tarjeta",
+  "fecha": "2021-10-30"
+ },
+ {
+  "monto": 5500,
+  "medio": "efectivo",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 1600,
+  "medio": "efectivo",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 4350,
+  "medio": "efectivo",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 5700,
+  "medio": "efectivo",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 200,
+  "medio": "efectivo",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 5500,
+  "medio": "efectivo",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 2600,
+  "medio": "efectivo",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 1500,
+  "medio": "tarjeta",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 4950,
+  "medio": "tarjeta",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 1200,
+  "medio": "tarjeta",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-11-06"
+ },
+ {
+  "monto": 7200,
+  "medio": "efectivo",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 5650,
+  "medio": "efectivo",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 2800,
+  "medio": "efectivo",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 5000,
+  "medio": "efectivo",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 1750,
+  "medio": "tarjeta",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 4900,
+  "medio": "tarjeta",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 6580,
+  "medio": "tarjeta",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 2500,
+  "medio": "tarjeta",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 7300,
+  "medio": "tarjeta",
+  "fecha": "2021-11-13"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 5900,
+  "medio": "efectivo",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 800,
+  "medio": "efectivo",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 400,
+  "medio": "efectivo",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 6700,
+  "medio": "efectivo",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 3650,
+  "medio": "efectivo",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 7900,
+  "medio": "tarjeta",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 2800,
+  "medio": "tarjeta",
+  "fecha": "2021-11-20"
+ },
+ {
+  "monto": 5500,
+  "medio": "efectivo",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 100,
+  "medio": "efectivo",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 4900,
+  "medio": "efectivo",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 5000,
+  "medio": "efectivo",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 5900,
+  "medio": "efectivo",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 6700,
+  "medio": "tarjeta",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 2000,
+  "medio": "tarjeta",
+  "fecha": "2021-11-27"
+ },
+ {
+  "monto": 1300,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 5500,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 1500,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 5000,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 8000,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 6900,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 1500,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 12900,
+  "medio": "efectivo",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 1500,
+  "medio": "tarjeta",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 1200,
+  "medio": "tarjeta",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 4100,
+  "medio": "tarjeta",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-12-04"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2021-12-09"
+ },
+ {
+  "monto": 400,
+  "medio": "efectivo",
+  "fecha": "2021-12-09"
+ },
+ {
+  "monto": 5900,
+  "medio": "efectivo",
+  "fecha": "2021-12-09"
+ },
+ {
+  "monto": 7400,
+  "medio": "tarjeta",
+  "fecha": "2021-12-09"
+ },
+ {
+  "monto": 5700,
+  "medio": "tarjeta",
+  "fecha": "2021-12-09"
+ },
+ {
+  "monto": 4500,
+  "medio": "tarjeta",
+  "fecha": "2021-12-09"
+ },
+ {
+  "monto": 6500,
+  "medio": "efectivo",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 7400,
+  "medio": "efectivo",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 6900,
+  "medio": "efectivo",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 4500,
+  "medio": "efectivo",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 5500,
+  "medio": "efectivo",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 2800,
+  "medio": "efectivo",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 10600,
+  "medio": "efectivo",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 2000,
+  "medio": "tarjeta",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 8900,
+  "medio": "tarjeta",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 4950,
+  "medio": "tarjeta",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 4500,
+  "medio": "tarjeta",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 2000,
+  "medio": "tarjeta",
+  "fecha": "2021-12-18"
+ },
+ {
+  "monto": 4900,
+  "medio": "efectivo",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 4200,
+  "medio": "efectivo",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 6900,
+  "medio": "efectivo",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 900,
+  "medio": "efectivo",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 7500,
+  "medio": "efectivo",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 2300,
+  "medio": "efectivo",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 4500,
+  "medio": "tarjeta",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 7950,
+  "medio": "tarjeta",
+  "fecha": "2021-12-30"
+ },
+ {
+  "monto": 4300,
+  "medio": "efectivo",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 500,
+  "medio": "efectivo",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 8900,
+  "medio": "tarjeta",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 1500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 2000,
+  "medio": "tarjeta",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 3800,
+  "medio": "tarjeta",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 4500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-05"
+ },
+ {
+  "monto": 1500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 3860,
+  "medio": "tarjeta",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 4900,
+  "medio": "tarjeta",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 3400,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 4900,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 1200,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 3000,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 5650,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 2500,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 3500,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 1800,
+  "medio": "efectivo",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 4500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-12"
+ },
+ {
+  "monto": 23100,
+  "medio": "efectivo",
+  "fecha": "2022-02-19"
+ },
+ {
+  "monto": 9300,
+  "medio": "tarjeta",
+  "fecha": "2022-02-19"
+ },
+ {
+  "monto": 6900,
+  "medio": "tarjeta",
+  "fecha": "2022-02-19"
+ },
+ {
+  "monto": 4970,
+  "medio": "tarjeta",
+  "fecha": "2022-02-19"
+ },
+ {
+  "monto": 7500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-23"
+ },
+ {
+  "monto": 3500,
+  "medio": "tarjeta",
+  "fecha": "2022-02-23"
+ },
+ {
+  "monto": 5900,
+  "medio": "efectivo",
+  "fecha": "2022-02-23"
+ },
+ {
+  "monto": 20250,
+  "medio": "efectivo",
+  "fecha": "2022-03-05"
+ },
+ {
+  "monto": 8500,
+  "medio": "efectivo",
+  "fecha": "2022-03-05"
+ },
+ {
+  "monto": 15500,
+  "medio": "efectivo",
+  "fecha": "2022-03-05"
+ },
+ {
+  "monto": 9000,
+  "medio": "efectivo",
+  "fecha": "2022-03-05"
+ }
+]

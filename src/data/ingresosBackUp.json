@@ -1,0 +1,1657 @@
+[
+    {
+     "monto": 3450,
+     "medio": "efectivo",
+     "fecha": "05\/11\/2021"
+    },
+    {
+     "monto": 7400,
+     "medio": "efectivo",
+     "fecha": "05\/12\/2021"
+    },
+    {
+     "monto": 1650,
+     "medio": "tarjeta",
+     "fecha": "05\/12\/2021"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "05\/13\/2021"
+    },
+    {
+     "monto": 6000,
+     "medio": "tarjeta",
+     "fecha": "05\/13\/2021"
+    },
+    {
+     "monto": 7350,
+     "medio": "efectivo",
+     "fecha": "05\/14\/2021"
+    },
+    {
+     "monto": 2500,
+     "medio": "tarjeta",
+     "fecha": "05\/14\/2021"
+    },
+    {
+     "monto": 4200,
+     "medio": "efectivo",
+     "fecha": "05\/15\/2021"
+    },
+    {
+     "monto": 5000,
+     "medio": "tarjeta",
+     "fecha": "05\/15\/2021"
+    },
+    {
+     "monto": 2800,
+     "medio": "efectivo",
+     "fecha": "05\/18\/2021"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "05\/18\/2021"
+    },
+    {
+     "monto": 1800,
+     "medio": "efectivo",
+     "fecha": "05\/18\/2021"
+    },
+    {
+     "monto": 8600,
+     "medio": "efectivo",
+     "fecha": "05\/18\/2021"
+    },
+    {
+     "monto": 500,
+     "medio": "efectivo",
+     "fecha": "05\/18\/2021"
+    },
+    {
+     "monto": 1000,
+     "medio": "efectivo",
+     "fecha": "05\/18\/2021"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "05\/18\/2021"
+    },
+    {
+     "monto": 1000,
+     "medio": "tarjeta",
+     "fecha": "05\/18\/2021"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "05\/22\/2021"
+    },
+    {
+     "monto": 1800,
+     "medio": "efectivo",
+     "fecha": "05\/22\/2021"
+    },
+    {
+     "monto": 8600,
+     "medio": "efectivo",
+     "fecha": "05\/22\/2021"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "05\/22\/2021"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "05\/22\/2021"
+    },
+    {
+     "monto": 1000,
+     "medio": "tarjeta",
+     "fecha": "05\/22\/2021"
+    },
+    {
+     "monto": 5000,
+     "medio": "efectivo",
+     "fecha": "24-May"
+    },
+    {
+     "monto": 2900,
+     "medio": "efectivo",
+     "fecha": "24-May"
+    },
+    {
+     "monto": 3800,
+     "medio": "tarjeta",
+     "fecha": "24-May"
+    },
+    {
+     "monto": 850,
+     "medio": "tarjeta",
+     "fecha": "24-May"
+    },
+    {
+     "monto": 1580,
+     "medio": "efectivo",
+     "fecha": "01-Jun"
+    },
+    {
+     "monto": 1300,
+     "medio": "tarjeta",
+     "fecha": "01-Jun"
+    },
+    {
+     "monto": 3600,
+     "medio": "efectivo",
+     "fecha": "02-Jun"
+    },
+    {
+     "monto": 8950,
+     "medio": "efectivo",
+     "fecha": "03-Jun"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "03-Jun"
+    },
+    {
+     "monto": 7650,
+     "medio": "efectivo",
+     "fecha": "04-Jun"
+    },
+    {
+     "monto": 2500,
+     "medio": "tarjeta",
+     "fecha": "04-Jun"
+    },
+    {
+     "monto": 5000,
+     "medio": "efectivo",
+     "fecha": "12-Jun"
+    },
+    {
+     "monto": 4900,
+     "medio": "efectivo",
+     "fecha": "12-Jun"
+    },
+    {
+     "monto": 7000,
+     "medio": "tarjeta",
+     "fecha": "12-Jun"
+    },
+    {
+     "monto": 7800,
+     "medio": "efectivo",
+     "fecha": "12-Jun"
+    },
+    {
+     "monto": 2900,
+     "medio": "tarjeta",
+     "fecha": "12-Jun"
+    },
+    {
+     "monto": 1500,
+     "medio": "efectivo",
+     "fecha": "12-Jun"
+    },
+    {
+     "monto": 1800,
+     "medio": "efectivo",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 2080,
+     "medio": "efectivo",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 1025,
+     "medio": "efectivo",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 1500,
+     "medio": "efectivo",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 1600,
+     "medio": "efectivo",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 2800,
+     "medio": "efectivo",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 4000,
+     "medio": "tarjeta",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 4600,
+     "medio": "tarjeta",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 3000,
+     "medio": "tarjeta",
+     "fecha": "19-Jun"
+    },
+    {
+     "monto": 6500,
+     "medio": "tarjeta",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 8000,
+     "medio": "efectivo",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 3000,
+     "medio": "efectivo",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 1130,
+     "medio": "efectivo",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 7950,
+     "medio": "efectivo",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 1000,
+     "medio": "efectivo",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 6300,
+     "medio": "efectivo",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 4650,
+     "medio": "efectivo",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 4400,
+     "medio": "efectivo",
+     "fecha": "26-Jun"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 400,
+     "medio": "efectivo",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 1820,
+     "medio": "efectivo",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 400,
+     "medio": "efectivo",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 2300,
+     "medio": "efectivo",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 4850,
+     "medio": "efectivo",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 5350,
+     "medio": "efectivo",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 3900,
+     "medio": "tarjeta",
+     "fecha": "29-Jun"
+    },
+    {
+     "monto": 4100,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 1900,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 2200,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 3000,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 1290,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 1350,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 2200,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 4950,
+     "medio": "efectivo",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 2200,
+     "medio": "tarjeta",
+     "fecha": "17-Jul"
+    },
+    {
+     "monto": 6350,
+     "medio": "efectivo",
+     "fecha": "24-Jul"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "24-Jul"
+    },
+    {
+     "monto": 6580,
+     "medio": "efectivo",
+     "fecha": "24-Jul"
+    },
+    {
+     "monto": 8750,
+     "medio": "efectivo",
+     "fecha": "24-Jul"
+    },
+    {
+     "monto": 1600,
+     "medio": "efectivo",
+     "fecha": "24-Jul"
+    },
+    {
+     "monto": 3800,
+     "medio": "tarjeta",
+     "fecha": "24-Jul"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "24-Jul"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 6800,
+     "medio": "tarjeta",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 2500,
+     "medio": "tarjeta",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 4850,
+     "medio": "tarjeta",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 3800,
+     "medio": "tarjeta",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 4350,
+     "medio": "tarjeta",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 1800,
+     "medio": "efectivo",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 1450,
+     "medio": "efectivo",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 2400,
+     "medio": "efectivo",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 1800,
+     "medio": "efectivo",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 2800,
+     "medio": "efectivo",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 3000,
+     "medio": "efectivo",
+     "fecha": "31-Jul"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 1500,
+     "medio": "efectivo",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 780,
+     "medio": "efectivo",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 1300,
+     "medio": "efectivo",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 1500,
+     "medio": "efectivo",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 1200,
+     "medio": "tarjeta",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 6300,
+     "medio": "tarjeta",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 2500,
+     "medio": "tarjeta",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "06-Aug"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 2800,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 400,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 3200,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 4200,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 2000,
+     "medio": "efectivo",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 1080,
+     "medio": "tarjeta",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 450,
+     "medio": "tarjeta",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 3650,
+     "medio": "tarjeta",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 1800,
+     "medio": "tarjeta",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 3000,
+     "medio": "tarjeta",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 1300,
+     "medio": "tarjeta",
+     "fecha": "14-Aug"
+    },
+    {
+     "monto": 5200,
+     "medio": "efectivo",
+     "fecha": "21-Aug"
+    },
+    {
+     "monto": 2200,
+     "medio": "tarjeta",
+     "fecha": "21-Aug"
+    },
+    {
+     "monto": 6100,
+     "medio": "tarjeta",
+     "fecha": "21-Aug"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 400,
+     "medio": "efectivo",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 4700,
+     "medio": "efectivo",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 2000,
+     "medio": "efectivo",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 500,
+     "medio": "efectivo",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 4300,
+     "medio": "tarjeta",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 1200,
+     "medio": "tarjeta",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 3550,
+     "medio": "tarjeta",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 1500,
+     "medio": "tarjeta",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "28-Aug"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "31-Aug"
+    },
+    {
+     "monto": 6500,
+     "medio": "tarjeta",
+     "fecha": "31-Aug"
+    },
+    {
+     "monto": 2800,
+     "medio": "efectivo",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 400,
+     "medio": "efectivo",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 2000,
+     "medio": "efectivo",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 1350,
+     "medio": "efectivo",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 2850,
+     "medio": "tarjeta",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 5170,
+     "medio": "tarjeta",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 4900,
+     "medio": "tarjeta",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 4850,
+     "medio": "tarjeta",
+     "fecha": "04-Sep"
+    },
+    {
+     "monto": 2400,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 500,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 3800,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 2400,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 850,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 5450,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 5500,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 4900,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 5750,
+     "medio": "tarjeta",
+     "fecha": "11-Sep"
+    },
+    {
+     "monto": 1300,
+     "medio": "efectivo",
+     "fecha": "18-Sep"
+    },
+    {
+     "monto": 3800,
+     "medio": "efectivo",
+     "fecha": "18-Sep"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "18-Sep"
+    },
+    {
+     "monto": 450,
+     "medio": "tarjeta",
+     "fecha": "18-Sep"
+    },
+    {
+     "monto": 4020,
+     "medio": "efectivo",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 1500,
+     "medio": "efectivo",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 5500,
+     "medio": "tarjeta",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 3650,
+     "medio": "tarjeta",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 2164,
+     "medio": "tarjeta",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 4500,
+     "medio": "tarjeta",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 4550,
+     "medio": "tarjeta",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 5600,
+     "medio": "tarjeta",
+     "fecha": "29-Sep"
+    },
+    {
+     "monto": 2900,
+     "medio": "tarjeta",
+     "fecha": "06-Oct"
+    },
+    {
+     "monto": 4200,
+     "medio": "tarjeta",
+     "fecha": "06-Oct"
+    },
+    {
+     "monto": 4900,
+     "medio": "tarjeta",
+     "fecha": "06-Oct"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "06-Oct"
+    },
+    {
+     "monto": 2800,
+     "medio": "efectivo",
+     "fecha": "06-Oct"
+    },
+    {
+     "monto": 6700,
+     "medio": "efectivo",
+     "fecha": "06-Oct"
+    },
+    {
+     "monto": 5800,
+     "medio": "efectivo",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 850,
+     "medio": "efectivo",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 6500,
+     "medio": "efectivo",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 4900,
+     "medio": "tarjeta",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 5350,
+     "medio": "tarjeta",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 4500,
+     "medio": "tarjeta",
+     "fecha": "17-Oct"
+    },
+    {
+     "monto": 4800,
+     "medio": "efectivo",
+     "fecha": "30-Oct"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "30-Oct"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "30-Oct"
+    },
+    {
+     "monto": 1300,
+     "medio": "efectivo",
+     "fecha": "30-Oct"
+    },
+    {
+     "monto": 5500,
+     "medio": "efectivo",
+     "fecha": "30-Oct"
+    },
+    {
+     "monto": 5050,
+     "medio": "tarjeta",
+     "fecha": "30-Oct"
+    },
+    {
+     "monto": 5500,
+     "medio": "efectivo",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 1600,
+     "medio": "efectivo",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 4350,
+     "medio": "efectivo",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 5700,
+     "medio": "efectivo",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 200,
+     "medio": "efectivo",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 5500,
+     "medio": "efectivo",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 2600,
+     "medio": "efectivo",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 1500,
+     "medio": "tarjeta",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 4950,
+     "medio": "tarjeta",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 1200,
+     "medio": "tarjeta",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "06-Nov"
+    },
+    {
+     "monto": 7200,
+     "medio": "efectivo",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 5650,
+     "medio": "efectivo",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 2800,
+     "medio": "efectivo",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 5000,
+     "medio": "efectivo",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 1750,
+     "medio": "tarjeta",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 4900,
+     "medio": "tarjeta",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 6580,
+     "medio": "tarjeta",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 2500,
+     "medio": "tarjeta",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 7300,
+     "medio": "tarjeta",
+     "fecha": "13-Nov"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 5900,
+     "medio": "efectivo",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 800,
+     "medio": "efectivo",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 400,
+     "medio": "efectivo",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 6700,
+     "medio": "efectivo",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 3650,
+     "medio": "efectivo",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 7900,
+     "medio": "tarjeta",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 2800,
+     "medio": "tarjeta",
+     "fecha": "20-Nov"
+    },
+    {
+     "monto": 5500,
+     "medio": "efectivo",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 100,
+     "medio": "efectivo",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 4900,
+     "medio": "efectivo",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 5000,
+     "medio": "efectivo",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 5900,
+     "medio": "efectivo",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 6700,
+     "medio": "tarjeta",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 2000,
+     "medio": "tarjeta",
+     "fecha": "27-Nov"
+    },
+    {
+     "monto": 1300,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 5500,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 1500,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 5000,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 8000,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 6900,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 1500,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 12900,
+     "medio": "efectivo",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 1500,
+     "medio": "tarjeta",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 1200,
+     "medio": "tarjeta",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 4100,
+     "medio": "tarjeta",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "04-Dec"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "09-Dec"
+    },
+    {
+     "monto": 400,
+     "medio": "efectivo",
+     "fecha": "09-Dec"
+    },
+    {
+     "monto": 5900,
+     "medio": "efectivo",
+     "fecha": "09-Dec"
+    },
+    {
+     "monto": 7400,
+     "medio": "tarjeta",
+     "fecha": "09-Dec"
+    },
+    {
+     "monto": 5700,
+     "medio": "tarjeta",
+     "fecha": "09-Dec"
+    },
+    {
+     "monto": 4500,
+     "medio": "tarjeta",
+     "fecha": "09-Dec"
+    },
+    {
+     "monto": 6500,
+     "medio": "efectivo",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 7400,
+     "medio": "efectivo",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 6900,
+     "medio": "efectivo",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 4500,
+     "medio": "efectivo",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 5500,
+     "medio": "efectivo",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 2800,
+     "medio": "efectivo",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 10600,
+     "medio": "efectivo",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 2000,
+     "medio": "tarjeta",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 8900,
+     "medio": "tarjeta",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 4950,
+     "medio": "tarjeta",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 4500,
+     "medio": "tarjeta",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 2000,
+     "medio": "tarjeta",
+     "fecha": "18-Dec"
+    },
+    {
+     "monto": 4900,
+     "medio": "efectivo",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 4200,
+     "medio": "efectivo",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 6900,
+     "medio": "efectivo",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 900,
+     "medio": "efectivo",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 7500,
+     "medio": "efectivo",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 2300,
+     "medio": "efectivo",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 4500,
+     "medio": "tarjeta",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 7950,
+     "medio": "tarjeta",
+     "fecha": "30-Dec"
+    },
+    {
+     "monto": 4300,
+     "medio": "efectivo",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 500,
+     "medio": "efectivo",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 8900,
+     "medio": "tarjeta",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 1500,
+     "medio": "tarjeta",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 2000,
+     "medio": "tarjeta",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 3800,
+     "medio": "tarjeta",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 4500,
+     "medio": "tarjeta",
+     "fecha": "05-Feb"
+    },
+    {
+     "monto": 1500,
+     "medio": "tarjeta",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 3860,
+     "medio": "tarjeta",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 4900,
+     "medio": "tarjeta",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 3400,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 4900,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 1200,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 3000,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 5650,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 2500,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 3500,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 1800,
+     "medio": "efectivo",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 4500,
+     "medio": "tarjeta",
+     "fecha": "12-Feb"
+    },
+    {
+     "monto": 23100,
+     "medio": "efectivo",
+     "fecha": "19-Feb"
+    },
+    {
+     "monto": 9300,
+     "medio": "tarjeta",
+     "fecha": "19-Feb"
+    },
+    {
+     "monto": 6900,
+     "medio": "tarjeta",
+     "fecha": "19-Feb"
+    },
+    {
+     "monto": 4970,
+     "medio": "tarjeta",
+     "fecha": "19-Feb"
+    },
+    {
+     "monto": 7500,
+     "medio": "tarjeta",
+     "fecha": "23-Feb"
+    },
+    {
+     "monto": 3500,
+     "medio": "tarjeta",
+     "fecha": "23-Feb"
+    },
+    {
+     "monto": 5900,
+     "medio": "efectivo",
+     "fecha": "23-Feb"
+    },
+    {
+     "monto": 20250,
+     "medio": "efectivo",
+     "fecha": "05-Mar"
+    },
+    {
+     "monto": 8500,
+     "medio": "efectivo",
+     "fecha": "05-Mar"
+    },
+    {
+     "monto": 15500,
+     "medio": "efectivo",
+     "fecha": "05-Mar"
+    },
+    {
+     "monto": 9000,
+     "medio": "efectivo",
+     "fecha": "05-Mar"
+    }
+   ]

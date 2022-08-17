@@ -15,7 +15,7 @@ const controladorMain ={
     },
     form1: (req, res)=>{
         let ingreso = {
-            monto: req.body.monto,
+            monto: parseFloat(req.body.monto),
             medio: req.body.medio,
             fecha: req.body.fecha,
         };
@@ -23,25 +23,29 @@ const controladorMain ={
             ingreso.fecha = new Date;
         };
         ingresos.push(ingreso);
-        let ingresosJSON = JSON.stringify(ingresos);
+        let ingresosJSON = JSON.stringify(ingresos, null, " ");
         fs.writeFileSync(ingresosPath, ingresosJSON);
         res.redirect("/");
     },
     form2: (req, res)=>{
         let egreso = {
             concepto: req.body.conceptGast,
-            monto: req.body.montoEg,
+            monto: parseFloat(req.body.montoEg),
             medio: req.body.medioEg,
-            fecha: req.body.fechaEg
+            fecha: req.body.fechaEg,
+            subConcepto: req.body.subConcepto,
+            detalle: req.body.detalle
         };
         if(egreso.fecha == ""){
             egreso.fecha = new Date;
         };
         egresos.push(egreso);
-        let egresosJSON = JSON.stringify(egresos);
+        let egresosJSON = JSON.stringify(egresos, null, " ");
         fs.writeFileSync(egresosPath, egresosJSON);
         res.redirect("/");
     }
 }
+
+
 
 module.exports = controladorMain;

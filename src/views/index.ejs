@@ -38,8 +38,30 @@
                 <input name="medioEg" type="radio" value="tarjeta"/>Tarjeta<br />
                 <input name="medioEg" type="radio" value="transferencia"/>Transferencia <br>
                 <br>
-                <label for="fechaEg">Fecha</label>
+                <label for="fechaEg">Fecha:</label>
                 <input type="date" name="fechaEg">
+                <br>
+                <br>
+                <label for="subConcepto">Concepto:</label>
+                <select name="subConcepto" id="subConcepto">
+                    <option value="Auto & Nafta">Auto & Nafta</option>
+                    <option value="bienes de uso">Bienes de Uso</option>
+                    <option value="Cuidado Personal">Cuidado Personal</option>
+                    <option value="Familia">Familia</option>
+                    <option value="Farmacia y medicos">Farmacia & Médicos</option>
+                    <option value="Gastos Peluquería">Gastos Peluquería</option>
+                    <option value="Ian">Ian</option>
+                    <option value="Impuestos">Impuestos</option>
+                    <option value="Mercado & Kioscos">Mercado & Kioscos</option>
+                    <option value="Vacaciones">Vacaciones</option>
+                    <option value="Salidas & Cenas">Salidas & Cenas</option> 
+                    <option value="Telefono, Internet & Otros">Telefono, Internet & Otros</option> 
+                    <option value="Otros" selected>Otros</option>     
+                </select>
+                <br>
+                <br>
+                <label for="detalle">Detalle:</label>
+                <input type="text" name="detalle">
                 <br>
                 <br>
                 <input type="submit" value="Registrar" class="botonRegistrar2" form="form2">
