@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include("./partials/head.ejs", {titulo: "Pear, sitio de compra y venda de NFT", cssSheet: "index"}) %>
+<body>
+    
+    <%- include("./partials/header.ejs") %>
+    <main> 
+    <div class="todosLosForms">
+        <div class="cuatroCuadros">
+            <!-- primer formulario -->
+            <h2 class="tituloForm">Ingresos</h2>
+            <form action="/" method="POST" class="primerForm">
+                <label for="monto">Monto trabajo:</label>
+                <input type="number" name="monto" placeholder="$ 0.000"><br>
+                <br>
+                <input name="medio" type="radio" value="efectivo" checked="checked"/>Efectivo<br/>
+                <input name="medio" type="radio" value="tarjeta"/>Tarjeta<br />
+                <input name="medio" type="radio" value="transferencia"/>Transferencia <br>
+                <br>
+                <label for="fecha">Fecha</label>
+                <input type="date">
+                <br>
+                <br>
+                <input type="submit" value="Registrar" class="botonRegistrar2">
+            </form>
+        </div>
+        <div class="cuatroCuadros">
+            <!-- primer formulario -->
+            <h2 class="tituloForm">Egresos</h2>
+            <form action="/" method="POST" class="primerForm">
+                <input name="conceptGast" type="radio" value="personal" checked="checked"/>Personal<br/>
+                <input name="conceptGast" type="radio" value="peluqueria"/>Peluquería<br />
+                <br>
+                <label for="montoEg">Gasto:</label>
+                <input type="number" name="montoEg" placeholder="$ 0.000"><br>
+                <br>
+                <input name="medioEg" type="radio" value="efectivo" checked="checked"/>Efectivo<br/>
+                <input name="medioEg" type="radio" value="tarjeta"/>Tarjeta<br />
+                <input name="medioEg" type="radio" value="transferencia"/>Transferencia <br>
+                <br>
+                <label for="fechaEg">Fecha</label>
+                <input type="date">
+                <br>
+                <br>
+                <input type="submit" value="Registrar" class="botonRegistrar2">
+            </form>
+        </div>
+    </div>
+    </main>
+    <%- include("./partials/footer.ejs") %>
+  
+</body>
+
+</html>

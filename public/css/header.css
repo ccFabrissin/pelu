@@ -1,0 +1,15 @@
+:root {
+    --VerdeOscuro: #3AAFB9;
+    --Celeste: #97C8EB;
+    --VerdeClaro: #B9F18C;
+}
+
+.banner{
+    width: 100%;
+}
+
+@media (min-width: 430px) and (max-width: 800px) {
+   
+}
+@media (min-width: 801px) {
+}
