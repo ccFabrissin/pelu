@@ -31,3 +31,13 @@ for (let i = 0; i < ingresos.length; i++) {
 }
 
 //Ingresos del mes
+let ingresoFiltrado = [];
+for (let i = 0; i < ingresos.length; i++) {
+    if(ingresos[i].fecha >= "2021-05-13" && ingresos[i].fecha <= "2021-05-15"){
+        ingresoFiltrado.push(ingresos[i])
+        }  
+}
+let ingresoPorFecha = 0;
+for (let i = 0; i < ingresoFiltrado.length; i++) {
+    ingresoPorFecha = ingresoFiltrado[i].monto + ingresoPorFecha;
+}
