@@ -41,3 +41,14 @@ let ingresoPorFecha = 0;
 for (let i = 0; i < ingresoFiltrado.length; i++) {
     ingresoPorFecha = ingresoFiltrado[i].monto + ingresoPorFecha;
 }
+
+
+//metodos Controlador
+
+const mathController = {
+    report: (req,res)=>{
+        res.render('report')
+    }
+}
+
+module.exports = mathController;

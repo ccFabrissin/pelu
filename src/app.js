@@ -19,8 +19,10 @@ app.set("view engine", "ejs");
 app.set('views', path.join(__dirname, '/views'));
 
 const mainRouter = require("./routes/main");
+const reportRouter = require("./routes/report");
 
 app.use('/', mainRouter); //Rutas del menu principal
+app.use('/report', reportRouter); //Rutas del menu principal
 
 app.listen(3000, () => {
   console.log("Servidor funcionando en http://localhost:3000")

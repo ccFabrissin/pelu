@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include("./partials/head.ejs", {titulo: "Pear, sitio de compra y venda de NFT", cssSheet: "index"}) %>
+<body>
+    
+    <%- include("./partials/header.ejs") %>
+    <main>
+        <form action="/report" method="POST">
+            <input type="date" id="date1">
+            <br>
+            <br>
+            <input type="date" id="date2">
+        </form>
+
+    </main>
+    <%- include("./partials/footer.ejs") %>
+  
+</body>
+
+</html> 
