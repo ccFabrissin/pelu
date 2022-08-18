@@ -50,6 +50,21 @@ main{
   border-radius: 2%;
 }
 
+.sumatoria{
+  border-bottom: 1px gray solid;
+  text-align: end;
+}
+
+.sumatoriaNeta{
+  
+  text-align: end;
+  align-self: flex-end;
+}
+
+.aFacturar{
+  border: #797B84 1px solid;
+}
+
 .cuatroCuadros2{
   display: flex;
   flex-direction: column;

@@ -5,10 +5,19 @@
     <%- include("./partials/header.ejs") %>
     <main class="mainReport">
         <div class="cuatroCuadros2">
-            <h2><%=ingreso.ingresoPorFechaObj%></h2>
-            <h2> - <%=ingreso.egresoPorFechaObj%></h2>
-            <h2><%=ingreso.netoPorFechaObj%></h2>
-            <h2><%=ingreso.aFacturarObj%></h2>
+            <div class="sumatoria">
+                <h2>Ingresos: <%=ingreso.ingresoPorFechaObj%></h2>
+                <h2>Egresos: - <%=ingreso.egresoPorFechaObj%></h2>
+            </div>
+            <div class="sumatoriaNeta">
+                <h2>Neto: <%=ingreso.netoPorFechaObj%></h2>
+            </div>
+            <br>
+            <br>
+            <br>
+            <div class="aFacturar">
+                <h2>A Facturar: <%=ingreso.aFacturarObj%></h2>
+            </div>
     </main>
     <%- include("./partials/footer.ejs") %>  
 </body>
