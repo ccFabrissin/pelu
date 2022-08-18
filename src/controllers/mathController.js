@@ -1,27 +1,12 @@
 const path = require('path');
 const fs = require('fs');
 
-const ingresosPath = path.resolve(__dirname, '../data/ingresos.json');
+const ingresosPath = path.resolve(__dirname, '../../public/ingresos.json');
 const ingresos = JSON.parse(fs.readFileSync(ingresosPath, 'utf-8'));
 
-const egresosPath = path.resolve(__dirname,'../data/egresos.json');
+const egresosPath = path.resolve(__dirname,'../../public/egresos.json');
 const egresos = JSON.parse(fs.readFileSync(egresosPath, "utf-8"));
 
-
-let hoy = new Date();
-let mesActual = hoy.getMonth() + 1 ;
-let enero = 0;
-let febrero = 1;
-let marzo = 2;
-let abril = 3;
-let mayo = 4;
-let junio = 5;
-let julio = 6;
-let agosto = 7;
-let septiembre = 8;
-let octubre = 9;
-let noviembre = 10;
-let diciembre = 11;
 
 
 // Ingresos Totales
@@ -30,17 +15,6 @@ for (let i = 0; i < ingresos.length; i++) {
     ingresosTotales = ingresos[i].monto + ingresosTotales;
 }
 
-//Ingresos del mes
-let ingresoFiltrado = [];
-for (let i = 0; i < ingresos.length; i++) {
-    if(ingresos[i].fecha >= "2021-05-13" && ingresos[i].fecha <= "2021-05-15"){
-        ingresoFiltrado.push(ingresos[i])
-        }  
-}
-let ingresoPorFecha = 0;
-for (let i = 0; i < ingresoFiltrado.length; i++) {
-    ingresoPorFecha = ingresoFiltrado[i].monto + ingresoPorFecha;
-}
 
 
 //metodos Controlador
@@ -48,6 +22,52 @@ for (let i = 0; i < ingresoFiltrado.length; i++) {
 const mathController = {
     report: (req,res)=>{
         res.render('report')
+    },
+    filtrado: (req,res)=>{
+        //ingreso filtrado por fecha
+        let fecha1 = req.body.date1;
+        let fecha2 = req.body.date2;
+        let ingresoFiltrado = [];
+        for (let i = 0; i < ingresos.length; i++) {
+        if(ingresos[i].fecha >= fecha1 && ingresos[i].fecha <= fecha2){
+        ingresoFiltrado.push(ingresos[i])}}
+        let ingresoPorFecha = 0;
+        for (let i = 0; i < ingresoFiltrado.length; i++) {
+        ingresoPorFecha = ingresoFiltrado[i].monto + ingresoPorFecha;}
+        
+        //egresos filtrado por fecha
+        let egresoFiltrado = [];
+        for (let i = 0; i < egresos.length; i++) {
+        if(egresos[i].fecha >= fecha1 && egresos[i].fecha <= fecha2){
+        egresoFiltrado.push(egresos[i])}}
+        let egresoPorFecha = 0;
+        for (let i = 0; i < egresoFiltrado.length; i++) {
+        egresoPorFecha = egresoFiltrado[i].monto + egresoPorFecha;}
+
+        //a facturar
+        let aFacturar = 0;
+        let filtradoPorMedio = [];
+        for (let i = 0; i < ingresoFiltrado.length; i++) {
+            if(ingresoFiltrado[i].medio != "efectivo"){
+            filtradoPorMedio.push(ingresoFiltrado[i])}}
+        for (let i = 0; i < filtradoPorMedio.length; i++) {
+                aFacturar = filtradoPorMedio[i].monto + aFacturar;}
+
+        //    
+
+
+        let ingresoPorFecha1 = (ingresoPorFecha).toLocaleString(undefined, { maximumFractionDigits: 2, minimumFractionDigits: 2});
+        let egresoPorFecha1 = (egresoPorFecha).toLocaleString(undefined, { maximumFractionDigits: 2, minimumFractionDigits: 2});
+        let netoPorFechaObj1 =(ingresoPorFecha - egresoPorFecha).toLocaleString(undefined, { maximumFractionDigits: 2, minimumFractionDigits: 2});
+        let aFacturar1 = (aFacturar).toLocaleString(undefined, { maximumFractionDigits: 2, minimumFractionDigits: 2})
+
+        let ingresoObjt = {
+            ingresoPorFechaObj:ingresoPorFecha1,
+            egresoPorFechaObj:egresoPorFecha1,
+            netoPorFechaObj:netoPorFechaObj1,
+            aFacturarObj: aFacturar1
+        }    
+        res.render('reportFechas', {ingreso: ingresoObjt})
     }
 }
 

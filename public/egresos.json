@@ -1,0 +1,3170 @@
+[
+    {
+     "concepto": "Personal",
+     "monto": 15000,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4000,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1400,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5000,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3000,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4000,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1223.85,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2969.99,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2400,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7069.78,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1943.27,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 457.56,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1952.2,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1150,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 17950,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 700,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1260,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2200,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4000,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 6250,
+     "medio": "Efectivo",
+     "fecha": "2021-05-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 15000,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4000,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1400,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5000,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3000,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4000,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1223.85,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2969.99,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2400,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7069.78,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1943.27,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 457.56,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1952.2,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1150,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 17950,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 700,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1260,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2200,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4000,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-06-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2000,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7069.78,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1943.27,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 457.56,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 275,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 483.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 3500,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2050,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7300,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 500,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5000,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 600,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1500,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2000,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 14900,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2000,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-07-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 6150,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7069.78,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1333.33333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 457.56,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 775,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 233.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5700,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 800,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 12020,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1500,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 1000,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4800,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1000,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2000,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1500,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 18750,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-08-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4900,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1500,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3600,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3500,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7069.78,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1333.33333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 457.56,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 6300,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2775,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 233.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1530,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 12480,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1000,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 500,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 800,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2500,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 18950,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 26953.3333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-09-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3500,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7069.78,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1333.33333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 6500,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 975,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 233.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 834,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7020,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 500,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3800,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 1350,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5780,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5500,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 36254,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 9518.33333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-10-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1300,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7069.78,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7775,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 233.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1580,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 9767,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1400,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 8650,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 600,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2660,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 500,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 900,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 720,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5450,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 9810,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2500,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 49370,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 45158.3333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-11-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4900,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1000,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5430,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3133.33333333334,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 6700,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 10115,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 233.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 10880,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 8730,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 20886,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1000,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 5520,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 600,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1800,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 6010,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 9100,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4800,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 65160,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 1083.33333333333,
+     "medio": "Efectivo",
+     "fecha": "2021-12-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3133.33333333334,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 275,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 233.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4720,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 1083.33333333333,
+     "medio": "Efectivo",
+     "fecha": "2022-01-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2700,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3133.33333333334,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2500,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2375,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 233.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 8450,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 790,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7800,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 600,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4700,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 11100,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 600,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1810,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2300,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3000,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 23220,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 9570,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7000,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 34104.3333333333,
+     "medio": "Efectivo",
+     "fecha": "2022-02-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Otros",
+     "detalle": "Alquiler"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Ian",
+     "detalle": "Ingles"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Ian",
+     "detalle": "Escuela"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Mutual"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 4500,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Familia",
+     "detalle": "Facultad (Giuli)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Familia",
+     "detalle": "Mama (Mercadería)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Otros",
+     "detalle": "Seguro"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1140.41666666666,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "ENCENDIDO RECONQUISTA"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Internet"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Telefonos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Otros",
+     "detalle": "Préstamos ATP"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Familia",
+     "detalle": "Regalos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Impuestos",
+     "detalle": "Monotributo"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3133.33333333334,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Telefono, Internet &amp; Otros",
+     "detalle": "Netflix"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Ian",
+     "detalle": "Ropa Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 275,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Ian",
+     "detalle": "Ian"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 233.333333333333,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Familia",
+     "detalle": "Radio mama"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Ropa"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Belen (empleada)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 400,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Farmacia y medicos",
+     "detalle": "Farmacia y medicos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 9900,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Mercado &amp; comidas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Familia",
+     "detalle": "renato"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Lavadero (auto) &amp; Repuestos"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Otros",
+     "detalle": "Michi &amp; Babys"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2500,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Limpieza",
+     "detalle": "Fabiola"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Lavadero (toallas)"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 1000,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Cuidado Personal",
+     "detalle": "Peluquería, depilación &amp; uñas"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 3160,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Mercado &amp; Kioscos",
+     "detalle": "Kiosco"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 7400,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Bien &amp; otros bares"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 2150,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Salidas &amp; Cenas",
+     "detalle": "Salida de novios"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Auto &amp; Nafta",
+     "detalle": "Nafta"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Vacaciones",
+     "detalle": "Viaje"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 31570,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "bienes de uso",
+     "detalle": "bienes de uso"
+    },
+    {
+     "concepto": "Personal",
+     "monto": 0,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Otros",
+     "detalle": "Cumple"
+    },
+    {
+     "concepto": "Peluquería",
+     "monto": 10850,
+     "medio": "Efectivo",
+     "fecha": "2022-03-01",
+     "subConcepto": "Gastos Peluquería",
+     "detalle": "Gastos Peluquería"
+    }
+   ]

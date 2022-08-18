@@ -1,10 +1,10 @@
 const path = require('path');
 const fs = require('fs');
 
-const ingresosPath = path.resolve(__dirname, '../data/ingresos.json');
+const ingresosPath = path.resolve(__dirname, '../../public/ingresos.json');
 const ingresos = JSON.parse(fs.readFileSync(ingresosPath, 'utf-8'));
 
-const egresosPath = path.resolve(__dirname,'../data/egresos.json');
+const egresosPath = path.resolve(__dirname,'../../public/egresos.json');
 const egresos = JSON.parse(fs.readFileSync(egresosPath, "utf-8"));
 
 
